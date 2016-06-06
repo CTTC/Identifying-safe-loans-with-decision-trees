@@ -1,6 +1,6 @@
 # Identifying-safe-loans-with-decision-trees
 
-The project is based on the [Classification](https://www.coursera.org/learn/ml-classification/home/welcome) course provided by UW on Coursera.
+The project is based on the lectures from [Classification](https://www.coursera.org/learn/ml-classification/home/welcome) course provided by UW on Coursera.
 
 ---
 ```built-in decision-trees```
