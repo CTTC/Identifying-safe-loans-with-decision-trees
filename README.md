@@ -24,3 +24,12 @@ The goal of this notebook is to implement self-coded binary decision tree classi
 * Make predictions using the decision tree.
 * Evaluate the accuracy of the decision tree.
 * Visualize the decision at the root node.
+
+
+---
+```Prevent Overfitting in decision trees```
+The goal of this notebook is to explore various techniques for preventing overfitting in decision trees:
+
+* Implement binary decision trees with different early stopping methods.
+* Compare models with different stopping parameters.
+* Visualize the concept of overfitting in decision trees.
